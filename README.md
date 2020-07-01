@@ -1,6 +1,6 @@
 # Interactive Stopwatch 😍 for personal use😉. 
 
-## created by [Hitik Saini](https://hitik20.tech)
+## Project by [Hitik Saini](https://hitik20.tech)
 Click the link in about section to see it, bookmark it for your future use.😇
 
 # source of inspiration
