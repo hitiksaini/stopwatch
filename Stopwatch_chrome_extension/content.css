@@ -1,0 +1,61 @@
+body {
+  background: #fdfdfd;
+  border-radius: 5px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+  font-size: 0.5rem;
+  margin-top: 2.5%;
+}
+
+.mid {
+  font-size: 5.5rem;
+}
+
+.beg {
+  color: #ff5200;
+  font-size: 4rem;
+}
+
+.wrapper {
+  width: 500px;
+  margin: 15px auto;
+  color: #fff;
+  text-align: center;
+}
+
+a {
+  color: #ff5200;
+  text-decoration: none;
+}
+
+a:hover {
+  color: grey;
+}
+.ctrl{
+  margin-top:5%;
+}
+h1, h2, h3 {
+  color:grey;
+  font-weight: 100;
+  font-size: 1.3em;
+  margin-bottom: 5%;
+}
+
+#seconds, #tens {
+  font-size: 1.3em;
+}
+
+.ctrl-btns {
+  margin-top: 20px;
+  color: #fff;
+  border: none;
+  padding: 9px 5px;
+  width: 65px;
+  margin: 5px;
+}
+
+.ctrl-btns:hover {
+  color: #ff5200;
+}
