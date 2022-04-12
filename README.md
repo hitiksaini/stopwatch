@@ -1,5 +1,4 @@
 ## Stopwatch ⏱ 
-### Project by [Hitik Saini](https://hitik20.tech)
 
 Click  the link in about section to see it or just [bookmark](https://hitiksaini.github.io/Stopwatch/) it for your future use.
 
